@@ -4,7 +4,7 @@ Aprendi a:
 
 - Criar a tela
 
-- Criar e manipular botões
+- Criar e adicionar comando aos botões
 
 - Uso de entry box (caixa de input)
 
